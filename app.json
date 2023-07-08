@@ -1,0 +1,6 @@
+{
+  "name": "UberClone",
+  "ios": {
+    "bundleIdentifier": "hu.viranyi.uber"
+  }
+}
